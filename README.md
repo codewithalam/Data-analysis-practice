@@ -20,7 +20,7 @@ This repository documents my hands-on practice with **Matplotlib**, as part of m
 
 ## 📁 Files
 
-- `ice_cream_sales_analysis.ipynb` — practice notebook covering the topics above, using a sample ice cream sales dataset (temperature vs. sales trends)
+- `matplotlib.ipynb` — practice notebook covering the topics above, using a sample ice cream sales dataset (temperature vs. sales trends)
 
 ## 📌 Notes
 
